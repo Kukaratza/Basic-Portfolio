@@ -1,0 +1,106 @@
+.mainHeader {
+    background-color:#ffffff;
+    height: 85px;
+    width: 100%;
+    border-top: #cccccc solid 2px;
+    border-bottom: #cccccc solid 2px;
+    float: left;
+    position: relative;
+}
+
+#name {
+    background-color: #4ba9a5;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin-left: 140px;
+    float: left;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    /*top: 0px;
+    bottom: 586.925;*/
+    margin-top: 0px;
+    width: 300px;
+}
+
+h3 {
+    color: #4ba9a5;
+    float: left;
+    position: fixed;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 16px;
+}
+
+#about {
+    float: left;
+    position: fixed;
+    margin-left: 900px;
+    border-right: #4ba9a5 solid 2px;
+    padding-right: 20px;
+    
+}
+
+#portfolio {
+    float: left;
+    position: fixed;
+    margin-left: 990px;
+    border-right: #4ba9a5 solid 2px;
+    padding-right: 20px;
+}
+
+#contact {
+    float: left;
+    position: fixed;
+    margin-left: 1100px;
+}
+
+.background {
+    clear: both;
+    background-image: url(../../assets/images/white_wall_full.png);
+
+}
+
+.mainSection {
+    background-color: white;
+    width: 650px;
+    height: 500px;
+    margin-top: 120px;
+    margin-left: 140px;
+    border: #4ba9a5 solid 1px;
+    
+}
+
+.subMainSection {
+    margin: 30px 30px;
+    color: #777777;  
+    text-align: justify;
+}
+
+#aboutMe {
+    border-bottom: #4ba9a5 solid 2px;
+    padding-bottom: 20px;
+}
+
+.sidebar {
+    background-color: white;
+    width: 270px;
+    height: 250px;
+    position: absolute;
+    top: 107px;
+    bottom:285px;
+    left: 900px;
+    border: #4ba9a5 solid 1px;
+    text-align: left;
+}
+
+h2 { 
+    border-bottom: #4ba9a5 solid 2px;
+    margin: 30px 30px;
+    padding-bottom: 20px;
+    color: #777777;
+}
+
+
+
